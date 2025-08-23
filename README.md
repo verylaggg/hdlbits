@@ -1,6 +1,6 @@
 # hdlbits
 hdlbits
-.
+```bash.
 ├── README
 ├── s1_Getting_Started
 │   ├── p1_step_one
@@ -203,3 +203,4 @@ hdlbits
     ├── p180_cs450_counter_2bc
     ├── p181_cs450_history_shift
     └── p182_cs450_gshare
+```
