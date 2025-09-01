@@ -30,10 +30,10 @@ hdlbits
 │   ├── p22_module_name
 │   ├── p23_module_shift
 │   ├── p24_module_shift8
-│   ├── p25_module_add
-│   ├── p26_module_fadd
-│   ├── p27_module_cseladd
-│   └── p28_module_addsub
+│   ├── p25_module_add(done)
+│   ├── p26_module_fadd(done)
+│   ├── p27_module_cseladd(done)
+│   └── p28_module_addsub(done)
 ├── s2_4_Procedures
 │   ├── p29_alwaysblock1
 │   ├── p30_alwaysblock2
@@ -59,10 +59,10 @@ hdlbits
 │   ├── p48_exams_m2014_q4g
 │   ├── p49_gates
 │   ├── p50_7420
-│   ├── p51_truthtable1
+│   ├── p51_truthtable1(done)
 │   ├── p52_mt2015_eq2
 │   ├── p53_mt2015_q4a
-│   ├── p54_mt2015_q4b
+│   ├── p54_mt2015_q4b(done)
 │   ├── p55_mt2015_q4
 │   ├── p56_ringer
 │   ├── p57_thermostat
