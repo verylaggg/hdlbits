@@ -4,8 +4,7 @@ hdlbits
 ├── README
 ├── s1_Getting_Started
 │   ├── p1_step_one
-│   └── p2_zero
-├── s2_1_Basics
+│   └── p2_zero ├── s2_1_Basics
 │   ├── p10_7458(done)
 │   ├── p3_wire
 │   ├── p4_wire4
@@ -106,9 +105,9 @@ hdlbits
 │   ├── p91_mt2015_muxdff
 │   ├── p92_exams_2014_q4a
 │   ├── p93_exams_ece241_2014_q4
-│   ├── p94_exams_ece241_2013_q7
-│   ├── p95_edgedetect
-│   ├── p96_edgedetect2
+│   ├── p94_exams_ece241_2013_q7(done)
+│   ├── p95_edgedetect(done)
+│   ├── p96_edgedetect2(done)
 │   ├── p97_edgecapture
 │   └── p98_dualedge
 ├── s3_2_2_Counters
