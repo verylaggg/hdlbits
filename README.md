@@ -111,14 +111,14 @@ hdlbits
 │   ├── p97_edgecapture
 │   └── p98_dualedge
 ├── s3_2_2_Counters
-│   ├── p100_count10
-│   ├── p101_count1to10
-│   ├── p102_countslow
-│   ├── p103_exams_ece241_2014_q7a
-│   ├── p104_exams_ece241_2014_q7b
-│   ├── p105_countbcd
-│   ├── p106_count_clock
-│   └── p99_count15
+│   ├── p100_count10(done)
+│   ├── p101_count1to10(done)
+│   ├── p102_countslow(done)
+│   ├── p103_exams_ece241_2014_q7a(done)
+│   ├── p104_exams_ece241_2014_q7b(done)
+│   ├── p105_countbcd(done)
+│   ├── p106_count_clock(done)
+│   └── p99_count15(done)
 ├── s3_2_3_Shift_Registers
 │   ├── p107_shift4
 │   ├── p108_rotate100
