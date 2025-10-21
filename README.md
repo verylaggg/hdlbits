@@ -120,10 +120,10 @@ hdlbits
 │   ├── p106_count_clock(done)
 │   └── p99_count15(done)
 ├── s3_2_3_Shift_Registers
-│   ├── p107_shift4
+│   ├── p107_shift4(done)
 │   ├── p108_rotate100
-│   ├── p109_shift18
-│   ├── p110_lfsr5
+│   ├── p109_shift18(done)
+│   ├── p110_lfsr5(done)
 │   ├── p111_mt2015_lfsr
 │   ├── p112_lfsr32
 │   ├── p113_exams_m2014_q4k
