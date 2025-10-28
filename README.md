@@ -134,12 +134,12 @@ hdlbits
 │   ├── p117_rule110
 │   └── p118_conwaylife
 ├── s3_2_5_Finite_State_Machines
-│   ├── p119_fsm1
+│   ├── p119_fsm1(done)
 │   ├── p120_fsm1s
 │   ├── p121_fsm2
 │   ├── p122_fsm2s
-│   ├── p123_fsm3comb
-│   ├── p124_fsm3onehot
+│   ├── p123_fsm3comb(done)
+│   ├── p124_fsm3onehot(done)
 │   ├── p125_fsm3
 │   ├── p126_fsm3s
 │   ├── p127_exams_ece241_2013_q4
