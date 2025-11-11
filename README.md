@@ -143,10 +143,10 @@ hdlbits
 │   ├── p125_fsm3
 │   ├── p126_fsm3s
 │   ├── p127_exams_ece241_2013_q4
-│   ├── p128_lemmings1
-│   ├── p129_lemmings2
-│   ├── p130_lemmings3
-│   ├── p131_lemmings4
+│   ├── p128_lemmings1(done)
+│   ├── p129_lemmings2(done)
+│   ├── p130_lemmings3(done)
+│   ├── p131_lemmings4(done)
 │   ├── p132_fsm_onehot
 │   ├── p133_fsm_ps2
 │   ├── p134_fsm_ps2data
