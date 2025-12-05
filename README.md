@@ -150,9 +150,9 @@ hdlbits
 │   ├── p132_fsm_onehot
 │   ├── p133_fsm_ps2(done)
 │   ├── p134_fsm_ps2data(done)
-│   ├── p135_fsm_serial
-│   ├── p136_fsm_serialdata
-│   ├── p137_fsm_serialdp
+│   ├── p135_fsm_serial(done)
+│   ├── p136_fsm_serialdata(done)
+│   ├── p137_fsm_serialdp(done)
 │   ├── p138_fsm_hdlc
 │   ├── p139_exams_ece241_2013_q8
 │   ├── p140_exams_ece241_2014_q5a
