@@ -192,11 +192,12 @@ hdlbits
 │   ├── p171_sim_circuit8
 │   ├── p172_sim_circuit9
 │   ├── p173_sim_circuit10
-│   ├── p174_tb_clock
-│   ├── p175_tb_tb1
-│   ├── p176_tb_and
-│   ├── p177_tb_tb2
-│   └── p178_tb_tff
+├── s5_Writing_testbenches
+│   ├── p174_tb_clock(done)
+│   ├── p175_tb_tb1(done)
+│   ├── p176_tb_and(done)
+│   ├── p177_tb_tb2(done)
+│   └── p178_tb_tff(done)
 └── s6_CS450
     ├── p179_cs450_timer
     ├── p180_cs450_counter_2bc
