@@ -3,17 +3,17 @@ hdlbits
 ```bash.
 ├── README
 ├── s1_Getting_Started
-│   ├── p1_step_one
-│   └── p2_zero
+│   ├── p1_step_one(done)
+│   └── p2_zero(done)
 ├── s2_1_Basics
-│   ├── p10_7458(done)
-│   ├── p3_wire
-│   ├── p4_wire4
-│   ├── p5_notgate
-│   ├── p6_andgate
-│   ├── p7_norgate
-│   ├── p8_xnorgate
-│   └── p9_wire_decl
+│   ├── p3_wire(done)
+│   ├── p4_wire4(done)
+│   ├── p5_notgate(done)
+│   ├── p6_andgate(done)
+│   ├── p7_norgate(done)
+│   ├── p8_xnorgate(done)
+│   ├── p9_wire_decl(done)
+│   └── p10_7458(done)
 ├── s2_2_Vectors
 │   ├── p11_vector0
 │   ├── p12_vector1
@@ -112,14 +112,14 @@ hdlbits
 │   ├── p97_edgecapture
 │   └── p98_dualedge
 ├── s3_2_2_Counters
+│   ├── p99_count15(done)
 │   ├── p100_count10(done)
 │   ├── p101_count1to10(done)
 │   ├── p102_countslow(done)
 │   ├── p103_exams_ece241_2014_q7a(done)
 │   ├── p104_exams_ece241_2014_q7b(done)
 │   ├── p105_countbcd(done)
-│   ├── p106_count_clock(done)
-│   └── p99_count15(done)
+│   └── p106_count_clock(done)
 ├── s3_2_3_Shift_Registers
 │   ├── p107_shift4(done)
 │   ├── p108_rotate100
