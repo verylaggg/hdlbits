@@ -4,7 +4,8 @@ hdlbits
 ├── README
 ├── s1_Getting_Started
 │   ├── p1_step_one
-│   └── p2_zero ├── s2_1_Basics
+│   └── p2_zero
+├── s2_1_Basics
 │   ├── p10_7458(done)
 │   ├── p3_wire
 │   ├── p4_wire4
