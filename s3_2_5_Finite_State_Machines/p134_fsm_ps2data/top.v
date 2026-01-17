@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p134(
     input clk,
     input [7:0] in,
     input reset,    // Synchronous reset

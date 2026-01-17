@@ -1,4 +1,4 @@
-module top_module ( output reg A, output reg B );
+module top_module_p175 ( output reg A, output reg B );
     initial begin
         A = 0; B = 0;
         #10; A = 1; B = 0;

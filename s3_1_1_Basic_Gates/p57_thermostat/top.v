@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p57 (
     input too_cold,
     input too_hot,
     input mode,

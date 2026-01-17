@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p123(
     input in,
     input [1:0] state,
     output [1:0] next_state,

@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p96 (
     input clk,
     input [7:0] in,
     output [7:0] anyedge

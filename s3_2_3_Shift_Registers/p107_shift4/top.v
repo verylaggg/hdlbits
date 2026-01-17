@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p107(
     input clk,
     input areset,  // async active-high reset to zero
     input load,

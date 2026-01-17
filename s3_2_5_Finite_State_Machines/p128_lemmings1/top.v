@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p128(
     input clk,
     input areset,    // Freshly brainwashed Lemmings walk left.
     input bump_left,

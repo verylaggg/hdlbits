@@ -1,5 +1,5 @@
 //`define USE_DIY
-module top_module ( 
+module top_module_p72 ( 
     input [15:0] a, b,
     input cin,
     output cout,

@@ -1,4 +1,4 @@
-module top_module();
+module top_module_p176();
     reg [1:0] in;
     wire	  out;
     andgate andgate_x(.in(in), .out(out));

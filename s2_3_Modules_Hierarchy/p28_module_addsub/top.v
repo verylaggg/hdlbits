@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p28(
     input [31:0] a,
     input [31:0] b,
     input sub,

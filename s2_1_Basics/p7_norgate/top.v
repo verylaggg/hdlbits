@@ -1,4 +1,4 @@
-module top_module( 
+module top_module_p7( 
     input a, 
     input b, 
     output out );

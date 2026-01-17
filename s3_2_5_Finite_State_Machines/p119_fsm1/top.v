@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p119(
     input clk,
     input areset,    // Asynchronous reset to state B
     input in,

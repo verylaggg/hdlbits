@@ -1,4 +1,4 @@
-module top_module ();
+module top_module_p178 ();
     reg      clk;
     reg      reset;
     reg   	 t;

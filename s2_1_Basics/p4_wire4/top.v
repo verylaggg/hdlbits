@@ -1,4 +1,4 @@
-module top_module( 
+module top_module_p4( 
     input a,b,c,
     output w,x,y,z );
     

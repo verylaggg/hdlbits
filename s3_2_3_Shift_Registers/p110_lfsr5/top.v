@@ -1,4 +1,4 @@
-module top_module(
+module top_module_p110(
     input clk,
     input reset,    // Active-high synchronous reset to 5'h1
     output [4:0] q

@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p102 (
     input clk,
     input slowena,
     input reset,

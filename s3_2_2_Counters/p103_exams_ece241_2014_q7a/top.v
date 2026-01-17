@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p103 (
     input clk,
     input reset,
     input enable,

@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p56 (
     input ring,
     input vibrate_mode,
     output ringer,       // Make sound

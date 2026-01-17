@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p94 (
     input clk,
     input j,
     input k,

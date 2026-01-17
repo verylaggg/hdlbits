@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p101 (
     input clk,
     input reset,
     output [3:0] q);

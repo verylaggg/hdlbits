@@ -1,5 +1,5 @@
 `default_nettype none
-module top_module(
+module top_module_p9(
     input a,
     input b,
     input c,

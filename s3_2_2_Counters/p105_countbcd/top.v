@@ -1,4 +1,4 @@
-module top_module (
+module top_module_p105 (
     input clk,
     input reset,   // Synchronous active-high reset
     output [3:1] ena,

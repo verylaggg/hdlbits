@@ -1,4 +1,4 @@
-module top_module ( );
+module top_module_p174 ( );
 reg	clk;
     initial begin
         clk = 0;
