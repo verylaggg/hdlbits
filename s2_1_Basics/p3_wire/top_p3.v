@@ -1,3 +1,3 @@
 module top_module_p3( input in, output out );
-    assign out = in;
+	assign out = in;
 endmodule

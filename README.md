@@ -18,7 +18,7 @@ hdlbits
 │   ├── p11_vector0
 │   ├── p12_vector1
 │   ├── p13_vector2
-│   ├── p14_vectorgates
+│   ├── p14_vectorgates(done)
 │   ├── p15_gates4
 │   ├── p16_vector3
 │   ├── p17_vectorr

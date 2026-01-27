@@ -1,11 +1,11 @@
 `default_nettype none
 module top_module_p9(
-    input a,
-    input b,
-    input c,
-    input d,
-    output out,
-    output out_n   ); 
+    input wire a,
+    input wire b,
+    input wire c,
+    input wire d,
+    output wire out,
+    output wire out_n   ); 
     wire lv1_a, lv1_b;
     wire lv2_a;
     assign lv1_a = a & b;
