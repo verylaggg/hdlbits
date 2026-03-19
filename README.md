@@ -1,24 +1,31 @@
 # hdlbits
-hdlbits
+
+**(demo)** : means FPGA demo.
+
+**(done)** : means answer uploaded.
+
+**(\**)** : todo
+
+
 ```bash.
 ├── README
 ├── s1_Getting_Started
-│   ├── p1_step_one(done)
-│   └── p2_zero(done)
+│   ├── p1_step_one(done)(demo)
+│   └── p2_zero(done)(demo)
 ├── s2_1_Basics
-│   ├── p3_wire(done)
-│   ├── p4_wire4(done)
-│   ├── p5_notgate(done)
-│   ├── p6_andgate(done)
-│   ├── p7_norgate(done)
-│   ├── p8_xnorgate(done)
-│   ├── p9_wire_decl(done)
-│   └── p10_7458(done)
+│   ├── p3_wire(done)(demo)
+│   ├── p4_wire4(done)(demo)
+│   ├── p5_notgate(done)(demo)
+│   ├── p6_andgate(done)(demo)
+│   ├── p7_norgate(done)(demo)
+│   ├── p8_xnorgate(done)(demo)
+│   ├── p9_wire_decl(done)(demo)
+│   └── p10_7458(done)(demo)
 ├── s2_2_Vectors
 │   ├── p11_vector0
 │   ├── p12_vector1
 │   ├── p13_vector2
-│   ├── p14_vectorgates(done)
+│   ├── p14_vectorgates(done)(demo)
 │   ├── p15_gates4
 │   ├── p16_vector3
 │   ├── p17_vectorr
@@ -37,11 +44,11 @@ hdlbits
 ├── s2_4_Procedures
 │   ├── p29_alwaysblock1
 │   ├── p30_alwaysblock2
-│   ├── p31_always_if
-│   ├── p32_always_if2
+│   ├── p31_always_if(done) **
+│   ├── p32_always_if2(done) **
 │   ├── p33_always_case
-│   ├── p34_always_case2
-│   ├── p35_always_casez
+│   ├── p34_always_case2(done) **
+│   ├── p35_always_casez(done) **
 │   └── p36_always_nolatches
 ├── s2_5_More_Verilog_Features
 │   ├── p37_conditional
@@ -57,32 +64,32 @@ hdlbits
 │   ├── p46_exams_m2014_q4e
 │   ├── p47_exams_m2014_q4f
 │   ├── p48_exams_m2014_q4g
-│   ├── p49_gates
+│   ├── p49_gates **
 │   ├── p50_7420
-│   ├── p51_truthtable1(done)
+│   ├── p51_truthtable1(done) **
 │   ├── p52_mt2015_eq2
 │   ├── p53_mt2015_q4a
-│   ├── p54_mt2015_q4b(done)
+│   ├── p54_mt2015_q4b(done) **
 │   ├── p55_mt2015_q4
-│   ├── p56_ringer
-│   ├── p57_thermostat
-│   ├── p58_popcount3
+│   ├── p56_ringer(done) **
+│   ├── p57_thermostat(done) **
+│   ├── p58_popcount3(done) **
 │   ├── p59_gatesv
 │   └── p60_gatesv100
 ├── s3_1_2_Multiplexers
-│   ├── p61_mux2to1
+│   ├── p61_mux2to1(done) **
 │   ├── p62_mux2to1v
 │   ├── p63_mux9to1v
 │   ├── p64_mux256to1
 │   └── p65_mux256to1v
 ├── s3_1_3_Arithmetic_Circuits
-│   ├── p66_hadd
-│   ├── p67_fadd
-│   ├── p68_adder3
+│   ├── p66_hadd(done) **
+│   ├── p67_fadd(done) **
+│   ├── p68_adder3(done) **
 │   ├── p69_exams_m2014_q4j
-│   ├── p70_exams_ece241_2014_q1c
+│   ├── p70_exams_ece241_2014_q1c(done) **
 │   ├── p71_adder100
-│   └── p72_bcdadd4
+│   └── p72_bcdadd4(done) **
 ├── s3_1_4_Karnaugh_Map_to_Circuit
 │   ├── p73_kmap1
 │   ├── p74_kmap2
