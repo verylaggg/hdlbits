@@ -1,10 +1,23 @@
-module top_module_p32 
+//`define USE_ORIGINAL
+module top_module_p32 (
     input      cpu_overheated,
     output reg shut_off_computer,
     input      arrived,
     input      gas_tank_empty,
     output reg keep_driving  ); //
 
+`ifdef USE_ORIGINAL
+    always @(*) begin
+        if (cpu_overheated)
+           shut_off_computer = 1;
+    end
+
+    always @(*) begin
+        if (~arrived)
+           keep_driving = ~gas_tank_empty;
+    end
+
+`else
     always @(*) begin
         if (cpu_overheated)
            shut_off_computer = 1;
@@ -16,5 +29,5 @@ module top_module_p32
            keep_driving = 0;
         else keep_driving = 1;
     end
-
+`endif
 endmodule
