@@ -1,6 +1,6 @@
 module top_module_p58( 
     input [2:0] in,
-    output [1:0] out );
+    output reg [1:0] out );
     /* //method 1
     wire o0 = (in[0] & ~in[1] & ~in[2]) | (~in[0] & in[1] & ~in[2]) | (~in[0] & ~in[1] & in[2]) | (in[0] & in[1] & in[2]);
     wire o1 = (in[0] & in[1] & ~in[2]) | (in[0] & ~in[1] & in[2]) | (~in[0] & in[1] & in[2]) | (in[0] & in[1] & in[2]);

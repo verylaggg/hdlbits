@@ -1,4 +1,4 @@
-//`define USE_DIY
+`define USE_DIY
 module top_module_p72 ( 
     input [15:0] a, b,
     input cin,
@@ -24,8 +24,10 @@ module bcd_fadd_diy (
     output cout,
     output [3:0] sum );
     
-    wire cout0, cout1;
-    wire [3:0] sum0, sum1;
+    wire cout0;
+    reg cout1;
+    wire [3:0] sum0;
+    reg [3:0] sum1;
     localparam ANS_SEL = 0;
     assign {cout, sum} = ANS_SEL ? {cout1, sum1} : {cout0, sum0};
     // method1
